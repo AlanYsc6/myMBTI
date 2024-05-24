@@ -2,8 +2,8 @@
 
 + 纯前端微信小程序
 
-效果图：
+**效果图：**
 
-![image-20240524182051186](https://gitee.com/alanysc/image/raw/master/image-20240524182051186.png)
-![image-20240524200641239](https://gitee.com/alanysc/image/raw/master/image-20240524200641239.png)
-![image-20240524200714540](https://gitee.com/alanysc/image/raw/master/image-20240524200714540.png)
+<img src="https://gitee.com/alanysc/image/raw/master/image-20240524182051186.png" alt="image-20240524182051186" style="zoom: 67%;" /> 
+<img src="https://gitee.com/alanysc/image/raw/master/image-20240524200641239.png" alt="image-20240524200641239" style="zoom:67%;" />
+<img src="https://gitee.com/alanysc/image/raw/master/image-20240524200714540.png" alt="image-20240524200714540" style="zoom:67%;" />
